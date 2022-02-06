@@ -25,7 +25,7 @@ Notebook files(extension .ipynb) require software for the contents to display co
 The recommended editor for working with notebook files is [vscode](https://code.visualstudio.com),
 which should have notebook extensions installed by default.
 You should also install the necessary python extensions to enable 
-rich python editing. You can find out how to do this [here](https://code.visualstudio.com/docs/languages/python).
+[rich python editing](https://code.visualstudio.com/docs/languages/python).
 
 # Other Dependencies
 Most notebooks have dependencies that are required for it to work correctly.
@@ -43,5 +43,8 @@ It is recommended to use [virtual environments](https://docs.python.org/3/tutori
 This step is optional, but highly recommended!
 
 # Index
-- airline-sentiment - Airline Tweet sentiment analysis
-- opencv-into - Intro to OpenCV
+
+Each folder has the date of the workshop  to the name. The date format used is MM/DD/YY(The forward slash is excluded in the workshop directory name).
+
+- 012422-airline-sentiment - Airline Tweet sentiment analysis [01/24/2022]
+- 013122-opencv-into - Intro to OpenCV [01/31/2022]
