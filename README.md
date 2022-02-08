@@ -48,3 +48,4 @@ Each folder has the date of the workshop  to the name. The date format used is M
 
 - 012422-airline-sentiment - Airline Tweet sentiment analysis [01/24/2022]
 - 013122-opencv-into - Intro to OpenCV [01/31/2022]
+- 020722-fruit-ninja - Fruit Ninja [02/07/2022]
