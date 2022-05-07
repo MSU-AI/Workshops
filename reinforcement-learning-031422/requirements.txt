@@ -1,0 +1,6 @@
+gym==0.23.0
+pyvirtualdisplay==0.2.5
+pygame
+mujoco_py
+matplotlib
+numpy

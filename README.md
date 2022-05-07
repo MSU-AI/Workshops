@@ -7,7 +7,7 @@ More info on each individual workshop can be found
 within their respective folders.
 
 # Python
-All of the workshops utilise the [python programming language](https://www.python.org) in some way.
+All of the workshops utilize the [python programming language](https://www.python.org) in some way.
 Because of this, it is necessary for python to be installed before working with these workshops.
 
 Windows users can download python [here](https://www.python.org/downloads/windows/),
@@ -46,6 +46,9 @@ This step is optional, but highly recommended!
 
 Each folder has the date of the workshop  to the name. The date format used is MM/DD/YY(The forward slash is excluded in the workshop directory name).
 
-- 012422-airline-sentiment - Airline Tweet sentiment analysis [01/24/2022]
-- 013122-opencv-into - Intro to OpenCV [01/31/2022]
-- 020722-fruit-ninja - Fruit Ninja [02/07/2022]
+- airline-sentiment-012422 - Airline Tweet sentiment analysis [01/24/2022]
+- opencv-into-013122 - Intro to OpenCV [01/31/2022]
+- fruit-ninja-020722 - Fruit Ninja [02/07/2022]
+- movie-recommendation-021222 - Movie Recommendation System [02/14/2022]
+- reinforcement-learning-031422 - OpenAI Gym: Intro ro Reinforcement [03/14/2022]
+- gans-workshop-04422 - Battle of the GANs [04/04/2022]
