@@ -1,31 +1,11 @@
-# Workshops
+# Welcome to MSU AI club Workshops
 This repository contains workshops previously hosted by the 
 MSU AI club.
 
-Each workshop is contained within their own folders.
-More info on each individual workshop can be found
-within their respective folders.
+You can find details and resources for each individual workshop within the folders.
 
-# Python
-All of the workshops utilize the [python programming language](https://www.python.org) in some way.
-Because of this, it is necessary for python to be installed before working with these workshops.
-
-Windows users can download python [here](https://www.python.org/downloads/windows/),
-and MacOS users can download python [here](https://www.python.org/downloads/macos/).
-You probably want the latest version.
-
-Linux users should download python from their distribution's package manager.
-You can also find the source code for python on the website linked above
-if you wish to build from source.
-
-# Jupyter Notebooks
-Pretty much all of the workshops are [Jupyter Notebooks](https://jupyter.org).
-Notebook files(extension .ipynb) require software for the contents to display correctly.
-
-The recommended editor for working with notebook files is [vscode](https://code.visualstudio.com),
-which should have notebook extensions installed by default.
-You should also install the necessary python extensions to enable 
-[rich python editing](https://code.visualstudio.com/docs/languages/python).
+# Google Colab
+The main content of most of the workshops are in Google Colab notebooks, which you can access through the browser. There's no need to download anything. To access these, you need to sign in with a Google account that is NOT your MSU email.
 
 # Other Dependencies
 Most notebooks have dependencies that are required for it to work correctly.
